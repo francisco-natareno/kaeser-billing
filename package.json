@@ -24,6 +24,6 @@
     },
     "dependencies": {
         "datatables.net-bs4": "^1.10.20",
-        "highcharts": "^8.0.4"
+        "highcharts": "^8.1.1"
     }
 }
